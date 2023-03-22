@@ -16,7 +16,7 @@ FileMover is a Python script that monitors a folder for changes and moves files 
 
 - Navigate to the folder containing the script.
 
-- Type the following command: `python file_mover.py [watched_folder] [destination_folder] [--extensions]`
+- Type the following command: `python filewatch.py [watched_folder] [destination_folder] [--extensions]`
 
 - Replace `[watched_folder]` with the path of the folder to be monitored and `[destination_folder]` with the path of the folder where the files will be moved.
 
@@ -31,7 +31,6 @@ Contributions are welcome! If you have any ideas for enhancing the program or id
 
 ## Customizing the script
 You can customize the script by modifying the following variables:
-
 - `watched_folder`: The folder to be monitored for changes.
 - `destination_folder`: The folder where the files will be moved.
 - `extensions`: A dictionary containing the file extensions and their corresponding subdirectory names.
