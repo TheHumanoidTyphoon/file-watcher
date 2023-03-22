@@ -1,5 +1,5 @@
 # FileWatcher
-FileMover is a Python script that monitors a folder for changes and moves files with specific extensions to a destination folder.
+FileWatcher is a Python script that monitors a folder for changes and moves files with specific extensions to a destination folder.
 
 ## Preview
 <img width=100% src="https://github.com/TheHumanoidTyphoon/file-watcher/blob/main/file-watcher-preview.gif">
